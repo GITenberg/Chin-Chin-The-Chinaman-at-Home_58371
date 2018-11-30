@@ -1,16 +1,21 @@
 _repo: Chin-Chin-The-Chinaman-at-Home_58371
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Sherard, R. H.
     gutenberg_agent_id: '49915'
     url: http://www.gutenberg.org/2009/agents/49915
+covers:
+- cover_type: archival
+  image_path: 58371-h/images/cover.jpg
 creator:
   author:
     agent_name: Tcheng-Ki-Tong, Tcheng-Ki-Tong
     gutenberg_agent_id: '49914'
     url: http://www.gutenberg.org/2009/agents/49914
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58371#Chin-Chin-The-Chinaman-at-Home
 gutenberg_issued: '2018-11-28'
 gutenberg_type: Text
 identifiers:
